@@ -1,0 +1,453 @@
+CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value
+Arab World,ARB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1960,134.7723405
+Arab World,ARB,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,88.06110988
+Arab World,ARB,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1960,6.591950993
+Arab World,ARB,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1960,81.32418639
+Arab World,ARB,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1960,4600
+Arab World,ARB,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1960,3000000
+Arab World,ARB,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1960,541000000
+Arab World,ARB,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,47.79007624
+Arab World,ARB,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,1960,22.07371
+Arab World,ARB,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,1960,474880
+Arab World,ARB,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,1960,0.401705949
+Arab World,ARB,CO2 emissions (kt),EN.ATM.CO2E.KT,1960,56005.2998
+Arab World,ARB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,0.607447557
+Arab World,ARB,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1960,5.363582716
+Arab World,ARB,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1960,83.88302406
+Arab World,ARB,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,47036.76503
+Arab World,ARB,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1960,5.029178415
+Arab World,ARB,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,20.16535716
+Arab World,ARB,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,1960,11.54836816
+Arab World,ARB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,6.97725613
+Arab World,ARB,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1960,1.927301449
+Arab World,ARB,"International migrant stock, total",SM.POP.TOTL,1960,3324685
+Arab World,ARB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1960,47.62956365
+Arab World,ARB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1960,45.50473906
+Arab World,ARB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1960,46.54690889
+Arab World,ARB,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1960,4661121616
+Arab World,ARB,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1960,2467200000
+Arab World,ARB,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1960,15.39396887
+Arab World,ARB,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,1960,8.515726329
+Arab World,ARB,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,1960,68.4419585
+Arab World,ARB,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,1960,3.360084306
+Arab World,ARB,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS,1960,0.976815824
+Arab World,ARB,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1960,0.612029831
+Arab World,ARB,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1960,6.383754864
+Arab World,ARB,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,1960,2.792639429
+Arab World,ARB,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1960,2.038748379
+Arab World,ARB,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,1960,10.21806096
+Arab World,ARB,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,1960,5.946011673
+Arab World,ARB,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1960,4860619965
+Arab World,ARB,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1960,3923800000
+Arab World,ARB,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1960,8.97344411
+Arab World,ARB,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,1960,6.029869005
+Arab World,ARB,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,1960,77.20067282
+Arab World,ARB,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,1960,1.21820684
+Arab World,ARB,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS,1960,1.307406086
+Arab World,ARB,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1960,1.358377083
+Arab World,ARB,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,1960,4.742851318
+Arab World,ARB,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1960,2.770273714
+Arab World,ARB,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1960,2.428768031
+Arab World,ARB,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,1960,9.59529028
+Arab World,ARB,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,1960,4.230592793
+Arab World,ARB,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,1960,42.93012079
+Arab World,ARB,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1960,4.777087744
+Arab World,ARB,Mobile cellular subscriptions,IT.CEL.SETS,1960,0
+Arab World,ARB,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1960,0
+Arab World,ARB,Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS,1960,11.95308222
+Arab World,ARB,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,1960,299.5783473
+Arab World,ARB,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,1960,359.7116607
+Arab World,ARB,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD,1960,69999.99844
+Arab World,ARB,"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD,1960,354000006.1
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD,1960,2059999.829
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD,1960,71539999.05
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD,1960,49999.99888
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,1960,845270005.3
+Arab World,ARB,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,1960,42550000.35
+Arab World,ARB,"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD,1960,375000000
+Arab World,ARB,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,1960,9.56628512
+Arab World,ARB,Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,1960,7010100091
+Arab World,ARB,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,1960,881989992.6
+Arab World,ARB,Net official development assistance received (constant 2015 US$),DT.ODA.ODAT.KD,1960,7010100091
+Arab World,ARB,Net official development assistance received (current US$),DT.ODA.ODAT.CD,1960,881989992.6
+Arab World,ARB,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,1960,17.61132095
+Arab World,ARB,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,1960,17.99962897
+Arab World,ARB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,1960,43.27685079
+Arab World,ARB,"Population ages 0-14, female",SP.POP.0014.FE.IN,1960,19500996
+Arab World,ARB,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,1960,42.65679226
+Arab World,ARB,"Population ages 0-14, male",SP.POP.0014.MA.IN,1960,20399301
+Arab World,ARB,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,1960,43.88672489
+Arab World,ARB,"Population ages 0-14, total",SP.POP.0014.TO,1960,39900284
+Arab World,ARB,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,1960,14.01427165
+Arab World,ARB,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,1960,14.38288458
+Arab World,ARB,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,1960,11.03119966
+Arab World,ARB,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,1960,11.50421135
+Arab World,ARB,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,1960,8.950673401
+Arab World,ARB,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,1960,9.086629715
+Arab World,ARB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,1960,53.21522749
+Arab World,ARB,"Population ages 15-64, female",SP.POP.1564.FE.IN,1960,24483528
+Arab World,ARB,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,1960,53.55565409
+Arab World,ARB,"Population ages 15-64, male",SP.POP.1564.MA.IN,1960,24579744
+Arab World,ARB,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,1960,52.88046027
+Arab World,ARB,"Population ages 15-64, total",SP.POP.1564.TO,1960,49063244
+Arab World,ARB,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,1960,8.043881944
+Arab World,ARB,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,1960,8.124984621
+Arab World,ARB,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,1960,7.357789756
+Arab World,ARB,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,1960,7.421171999
+Arab World,ARB,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,1960,6.483054842
+Arab World,ARB,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,1960,6.419579605
+Arab World,ARB,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,1960,5.456646729
+Arab World,ARB,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,1960,5.392030772
+Arab World,ARB,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,1960,4.603987327
+Arab World,ARB,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,1960,4.502807517
+Arab World,ARB,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,1960,3.948237061
+Arab World,ARB,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,1960,3.824972941
+Arab World,ARB,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,1960,3.484051858
+Arab World,ARB,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,1960,3.30197981
+Arab World,ARB,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,1960,2.893145285
+Arab World,ARB,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,1960,2.686064153
+Arab World,ARB,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,1960,2.334185886
+Arab World,ARB,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,1960,2.12023914
+Arab World,ARB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,1960,3.507921717
+Arab World,ARB,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,1960,1731519
+Arab World,ARB,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,1960,3.787553646
+Arab World,ARB,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,1960,1502667
+Arab World,ARB,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,1960,3.232814832
+Arab World,ARB,"Population ages 65 and above, total",SP.POP.65UP.TO,1960,3234225
+Arab World,ARB,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,1960,1.683654681
+Arab World,ARB,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,1960,1.497516523
+Arab World,ARB,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,1960,1.105430729
+Arab World,ARB,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,1960,0.94667596
+Arab World,ARB,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,1960,0.623822813
+Arab World,ARB,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,1960,0.51539433
+Arab World,ARB,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,1960,0.374645423
+Arab World,ARB,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,1960,0.273228019
+Arab World,ARB,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,1960,33.86840784
+Arab World,ARB,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1960,14.37285817
+Arab World,ARB,"Population, female",SP.POP.TOTL.FE.IN,1960,45716042
+Arab World,ARB,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,1960,49.58476982
+Arab World,ARB,"Population, male",SP.POP.TOTL.MA.IN,1960,46481711
+Arab World,ARB,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,1960,50.41523018
+Arab World,ARB,"Population, total",SP.POP.TOTL,1960,92197753
+Arab World,ARB,Rural population,SP.RUR.TOTL,1960,63400576
+Arab World,ARB,Rural population (% of total population),SP.RUR.TOTL.ZS,1960,68.76585746
+Arab World,ARB,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,1960,44.5164342
+Arab World,ARB,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,1960,39.16478161
+Arab World,ARB,Total fisheries production (metric tons),ER.FSH.PROD.MT,1960,479480
+Arab World,ARB,Urban population,SP.URB.TOTL,1960,28797177
+Arab World,ARB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,1960,31.23414254
+Caribbean small states,CSS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1960,147.7085985
+Caribbean small states,CSS,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,90.31121383
+Caribbean small states,CSS,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1960,7.854604
+Caribbean small states,CSS,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1960,82.04993459
+Caribbean small states,CSS,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1960,0
+Caribbean small states,CSS,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,40.2594035
+Caribbean small states,CSS,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,1960,20.96495555
+Caribbean small states,CSS,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,1960,31823
+Caribbean small states,CSS,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,1960,-3.793224338
+Caribbean small states,CSS,CO2 emissions (kt),EN.ATM.CO2E.KT,1960,5878.201
+Caribbean small states,CSS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,1.401336684
+Caribbean small states,CSS,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1960,25.01559576
+Caribbean small states,CSS,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1960,71.49095446
+Caribbean small states,CSS,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,4202.382
+Caribbean small states,CSS,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1960,0.124766064
+Caribbean small states,CSS,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,9.603008826
+Caribbean small states,CSS,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,1960,12.5875221
+Caribbean small states,CSS,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,1960,12.4243326
+Caribbean small states,CSS,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,5.600345714
+Caribbean small states,CSS,GDP (current US$),NY.GDP.MKTP.CD,1960,1880306123
+Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,1960,448.2565239
+Caribbean small states,CSS,GNI (current US$),NY.GNP.MKTP.CD,1960,1873445686
+Caribbean small states,CSS,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1960,5.054240285
+Caribbean small states,CSS,"International migrant stock, total",SM.POP.TOTL,1960,187880
+Caribbean small states,CSS,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SL.TLF.CACT.FE.NE.ZS,1960,36.54100114
+Caribbean small states,CSS,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SL.TLF.CACT.MA.NE.ZS,1960,77.80489495
+Caribbean small states,CSS,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS,1960,56.09922014
+Caribbean small states,CSS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1960,64.57303041
+Caribbean small states,CSS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1960,60.91991284
+Caribbean small states,CSS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1960,62.74629519
+Caribbean small states,CSS,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1960,623907264.5
+Caribbean small states,CSS,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1960,563700000
+Caribbean small states,CSS,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1960,12.31151322
+Caribbean small states,CSS,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,1960,0.088699663
+Caribbean small states,CSS,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,1960,82.93418485
+Caribbean small states,CSS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1960,4.364023417
+Caribbean small states,CSS,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1960,0.088699663
+Caribbean small states,CSS,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,1960,0.124179528
+Caribbean small states,CSS,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1960,0.177399326
+Caribbean small states,CSS,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,1960,3.406067057
+Caribbean small states,CSS,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,1960,1.348234877
+Caribbean small states,CSS,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1960,825000000
+Caribbean small states,CSS,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1960,648800000
+Caribbean small states,CSS,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1960,6.920468557
+Caribbean small states,CSS,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,1960,0.061652281
+Caribbean small states,CSS,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,1960,78.56041924
+Caribbean small states,CSS,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,1960,0.138717633
+Caribbean small states,CSS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1960,13.6405672
+Caribbean small states,CSS,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,1960,0.061652281
+Caribbean small states,CSS,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1960,0.616522811
+Caribbean small states,CSS,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1960,0.061652281
+Caribbean small states,CSS,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,1960,12.94697904
+Caribbean small states,CSS,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,1960,1.572133169
+Caribbean small states,CSS,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,1960,77.0880181
+Caribbean small states,CSS,Mobile cellular subscriptions,IT.CEL.SETS,1960,0
+Caribbean small states,CSS,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1960,0
+Caribbean small states,CSS,Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS,1960,12.4243326
+Caribbean small states,CSS,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,1960,201.4278508
+Caribbean small states,CSS,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,1960,261.0727967
+Caribbean small states,CSS,"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD,1960,19999.99955
+Caribbean small states,CSS,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD,1960,8800000.191
+Caribbean small states,CSS,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,1960,18030000.19
+Caribbean small states,CSS,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,1960,9210000.001
+Caribbean small states,CSS,Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS,1960,0.969870654
+Caribbean small states,CSS,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,1960,4.331646269
+Caribbean small states,CSS,Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,1960,202179995.4
+Caribbean small states,CSS,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,1960,18169999.92
+Caribbean small states,CSS,Net official development assistance received (constant 2015 US$),DT.ODA.ODAT.KD,1960,202179995.4
+Caribbean small states,CSS,Net official development assistance received (current US$),DT.ODA.ODAT.CD,1960,18169999.92
+Caribbean small states,CSS,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,1960,16.79442775
+Caribbean small states,CSS,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,1960,18.13619254
+Caribbean small states,CSS,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,1960,43.20588397
+Caribbean small states,CSS,"Population ages 0-14, female",SP.POP.0014.FE.IN,1960,874498
+Caribbean small states,CSS,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,1960,41.75466074
+Caribbean small states,CSS,"Population ages 0-14, male",SP.POP.0014.MA.IN,1960,889817
+Caribbean small states,CSS,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,1960,44.73406186
+Caribbean small states,CSS,"Population ages 0-14, total",SP.POP.0014.TO,1960,1764314
+Caribbean small states,CSS,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,1960,13.7721791
+Caribbean small states,CSS,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,1960,14.81437811
+Caribbean small states,CSS,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,1960,11.18805389
+Caribbean small states,CSS,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,1960,11.78349121
+Caribbean small states,CSS,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,1960,9.100639509
+Caribbean small states,CSS,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,1960,9.108539506
+Caribbean small states,CSS,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,1960,52.65803584
+Caribbean small states,CSS,"Population ages 15-64, female",SP.POP.1564.FE.IN,1960,1120030
+Caribbean small states,CSS,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,1960,53.47808657
+Caribbean small states,CSS,"Population ages 15-64, male",SP.POP.1564.MA.IN,1960,1030265
+Caribbean small states,CSS,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,1960,51.7947137
+Caribbean small states,CSS,"Population ages 15-64, total",SP.POP.1564.TO,1960,2150293
+Caribbean small states,CSS,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,1960,7.783919912
+Caribbean small states,CSS,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,1960,7.361989133
+Caribbean small states,CSS,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,1960,6.87132716
+Caribbean small states,CSS,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,1960,6.219622156
+Caribbean small states,CSS,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,1960,6.05069921
+Caribbean small states,CSS,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,1960,5.568029411
+Caribbean small states,CSS,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,1960,5.493202491
+Caribbean small states,CSS,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,1960,5.132610883
+Caribbean small states,CSS,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,1960,4.791749543
+Caribbean small states,CSS,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,1960,4.807391703
+Caribbean small states,CSS,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,1960,4.365224937
+Caribbean small states,CSS,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,1960,4.630226856
+Caribbean small states,CSS,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,1960,3.709896215
+Caribbean small states,CSS,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,1960,3.82268499
+Caribbean small states,CSS,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,1960,2.966475397
+Caribbean small states,CSS,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,1960,2.95526958
+Caribbean small states,CSS,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,1960,2.344952196
+Caribbean small states,CSS,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,1960,2.188349483
+Caribbean small states,CSS,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,1960,4.13608019
+Caribbean small states,CSS,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,1960,99844
+Caribbean small states,CSS,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,1960,4.767252687
+Caribbean small states,CSS,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,1960,69047
+Caribbean small states,CSS,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,1960,3.471224441
+Caribbean small states,CSS,"Population ages 65 and above, total",SP.POP.65UP.TO,1960,168897
+Caribbean small states,CSS,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,1960,1.752553326
+Caribbean small states,CSS,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,1960,1.350342746
+Caribbean small states,CSS,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,1960,1.367140341
+Caribbean small states,CSS,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,1960,1.097416531
+Caribbean small states,CSS,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,1960,0.915500743
+Caribbean small states,CSS,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,1960,0.622333572
+Caribbean small states,CSS,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,1960,0.732058277
+Caribbean small states,CSS,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,1960,0.401131592
+Caribbean small states,CSS,"Population, female",SP.POP.TOTL.FE.IN,1960,2094375
+Caribbean small states,CSS,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,1960,51.288673
+Caribbean small states,CSS,"Population, male",SP.POP.TOTL.MA.IN,1960,1989129
+Caribbean small states,CSS,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,1960,48.711327
+Caribbean small states,CSS,"Population, total",SP.POP.TOTL,1960,4194710
+Caribbean small states,CSS,Rural population,SP.RUR.TOTL,1960,2727263
+Caribbean small states,CSS,Rural population (% of total population),SP.RUR.TOTL.ZS,1960,65.01672199
+Caribbean small states,CSS,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,1960,65.62701633
+Caribbean small states,CSS,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,1960,58.05704991
+Caribbean small states,CSS,Total fisheries production (metric tons),ER.FSH.PROD.MT,1960,31823
+Caribbean small states,CSS,Urban population,SP.URB.TOTL,1960,1467447
+Caribbean small states,CSS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,1960,34.98327801
+Central Europe and the Baltics,CEB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1960,46.09901017
+Central Europe and the Baltics,CEB,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,57.41187553
+Central Europe and the Baltics,CEB,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1960,11.34334571
+Central Europe and the Baltics,CEB,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1960,45.87778285
+Central Europe and the Baltics,CEB,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1960,0.100326004
+Central Europe and the Baltics,CEB,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1960,32700
+Central Europe and the Baltics,CEB,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1960,5000000
+Central Europe and the Baltics,CEB,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1960,2039000000
+Central Europe and the Baltics,CEB,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,19.11743371
+Central Europe and the Baltics,CEB,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,1960,212911
+Central Europe and the Baltics,CEB,CO2 emissions (kt),EN.ATM.CO2E.KT,1960,466533.4096
+Central Europe and the Baltics,CEB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,5.104205752
+Central Europe and the Baltics,CEB,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,1960,42.27182228
+Central Europe and the Baltics,CEB,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1960,7.0120906
+Central Europe and the Baltics,CEB,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1960,10.16044614
+Central Europe and the Baltics,CEB,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,53016.40838
+Central Europe and the Baltics,CEB,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS,1960,17.82982291
+Central Europe and the Baltics,CEB,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS,1960,1.59802997
+Central Europe and the Baltics,CEB,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS,1960,24.52059101
+Central Europe and the Baltics,CEB,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1960,80.83445707
+Central Europe and the Baltics,CEB,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1960,363489.5583
+Central Europe and the Baltics,CEB,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS,1960,13.78497328
+Central Europe and the Baltics,CEB,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1960,3.687415517
+Central Europe and the Baltics,CEB,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1960,1.604830282
+Central Europe and the Baltics,CEB,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,8.632179425
+Central Europe and the Baltics,CEB,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,1960,9.562188375
+Central Europe and the Baltics,CEB,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1960,10000000
+Central Europe and the Baltics,CEB,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,1960,-19.62735069
+Central Europe and the Baltics,CEB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,2.497094093
+Central Europe and the Baltics,CEB,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,1960,98.24690312
+Central Europe and the Baltics,CEB,"International migrant stock, total",SM.POP.TOTL,1960,3294191
+Central Europe and the Baltics,CEB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1960,70.36795639
+Central Europe and the Baltics,CEB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1960,65.4110454
+Central Europe and the Baltics,CEB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1960,67.82138864
+Central Europe and the Baltics,CEB,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1960,934230000
+Central Europe and the Baltics,CEB,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1960,48.44524368
+Central Europe and the Baltics,CEB,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,1960,3.932650418
+Central Europe and the Baltics,CEB,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,1960,37.28418056
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,1960,4.310501697
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS,1960,1.832525181
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1960,1.68480995
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1960,3.899468011
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,1960,1.68480995
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1960,0.858460979
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,1960,12.94434989
+Central Europe and the Baltics,CEB,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,1960,1.326225876
+Central Europe and the Baltics,CEB,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1960,979230000
+Central Europe and the Baltics,CEB,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1960,47.93460168
+Central Europe and the Baltics,CEB,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,1960,2.245641984
+Central Europe and the Baltics,CEB,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,1960,42.00443205
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,1960,3.053419524
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS,1960,1.976042401
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1960,1.734015502
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,1960,1.953575769
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1960,0.9395137
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1960,0.404399375
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,1960,8.871255987
+Central Europe and the Baltics,CEB,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,1960,1.189710283
+Central Europe and the Baltics,CEB,Mobile cellular subscriptions,IT.CEL.SETS,1960,0
+Central Europe and the Baltics,CEB,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1960,0
+Central Europe and the Baltics,CEB,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,1960,124.7317415
+Central Europe and the Baltics,CEB,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,1960,200.0893908
+Central Europe and the Baltics,CEB,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,1960,9.467270782
+Central Europe and the Baltics,CEB,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,1960,10.56566087
+Central Europe and the Baltics,CEB,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,1960,29.18041853
+Central Europe and the Baltics,CEB,"Population ages 0-14, female",SP.POP.0014.FE.IN,1960,13063710
+Central Europe and the Baltics,CEB,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,1960,27.70127097
+Central Europe and the Baltics,CEB,"Population ages 0-14, male",SP.POP.0014.MA.IN,1960,13607706
+Central Europe and the Baltics,CEB,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,1960,30.75707335
+Central Europe and the Baltics,CEB,"Population ages 0-14, total",SP.POP.0014.TO,1960,26671417
+Central Europe and the Baltics,CEB,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,1960,9.69493761
+Central Europe and the Baltics,CEB,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,1960,10.77526893
+Central Europe and the Baltics,CEB,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,1960,8.539062574
+Central Europe and the Baltics,CEB,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,1960,9.416143547
+Central Europe and the Baltics,CEB,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,1960,6.819235801
+Central Europe and the Baltics,CEB,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,1960,7.438633447
+Central Europe and the Baltics,CEB,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,1960,63.60468279
+Central Europe and the Baltics,CEB,"Population ages 15-64, female",SP.POP.1564.FE.IN,1960,30124895
+Central Europe and the Baltics,CEB,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,1960,63.87909045
+Central Europe and the Baltics,CEB,"Population ages 15-64, male",SP.POP.1564.MA.IN,1960,28010916
+Central Europe and the Baltics,CEB,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,1960,63.31220078
+Central Europe and the Baltics,CEB,"Population ages 15-64, total",SP.POP.1564.TO,1960,58135802
+Central Europe and the Baltics,CEB,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,1960,7.312126127
+Central Europe and the Baltics,CEB,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,1960,7.736799614
+Central Europe and the Baltics,CEB,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,1960,7.616773485
+Central Europe and the Baltics,CEB,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,1960,8.090599139
+Central Europe and the Baltics,CEB,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,1960,7.776688571
+Central Europe and the Baltics,CEB,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,1960,7.969648277
+Central Europe and the Baltics,CEB,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,1960,7.518290274
+Central Europe and the Baltics,CEB,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,1960,7.121286829
+Central Europe and the Baltics,CEB,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,1960,4.504143625
+Central Europe and the Baltics,CEB,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,1960,4.122938175
+Central Europe and the Baltics,CEB,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,1960,6.398387435
+Central Europe and the Baltics,CEB,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,1960,6.015475021
+Central Europe and the Baltics,CEB,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,1960,6.142172985
+Central Europe and the Baltics,CEB,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,1960,6.037838711
+Central Europe and the Baltics,CEB,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,1960,5.321245061
+Central Europe and the Baltics,CEB,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,1960,5.029151101
+Central Europe and the Baltics,CEB,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,1960,4.470027085
+Central Europe and the Baltics,CEB,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,1960,3.74983046
+Central Europe and the Baltics,CEB,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,1960,7.214898676
+Central Europe and the Baltics,CEB,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,1960,3970638
+Central Europe and the Baltics,CEB,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,1960,8.419638585
+Central Europe and the Baltics,CEB,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,1960,2623904
+Central Europe and the Baltics,CEB,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,1960,5.930725875
+Central Europe and the Baltics,CEB,"Population ages 65 and above, total",SP.POP.65UP.TO,1960,6594545
+Central Europe and the Baltics,CEB,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,1960,3.267063234
+Central Europe and the Baltics,CEB,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,1960,2.459582716
+Central Europe and the Baltics,CEB,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,1960,2.483300352
+Central Europe and the Baltics,CEB,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,1960,1.718754852
+Central Europe and the Baltics,CEB,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,1960,1.548266815
+Central Europe and the Baltics,CEB,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,1960,1.061562497
+Central Europe and the Baltics,CEB,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,1960,1.121008183
+Central Europe and the Baltics,CEB,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,1960,0.69082581
+Central Europe and the Baltics,CEB,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,1960,18.52426674
+Central Europe and the Baltics,CEB,"Population, female",SP.POP.TOTL.FE.IN,1960,47159241
+Central Europe and the Baltics,CEB,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,1960,51.59554801
+Central Europe and the Baltics,CEB,"Population, male",SP.POP.TOTL.MA.IN,1960,44242523
+Central Europe and the Baltics,CEB,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,1960,48.40445199
+Central Europe and the Baltics,CEB,"Population, total",SP.POP.TOTL,1960,91401764
+Central Europe and the Baltics,CEB,Rural population,SP.RUR.TOTL,1960,50720764
+Central Europe and the Baltics,CEB,Rural population (% of total population),SP.RUR.TOTL.ZS,1960,55.49210729
+Central Europe and the Baltics,CEB,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,1960,76.30456841
+Central Europe and the Baltics,CEB,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,1960,65.07766925
+Central Europe and the Baltics,CEB,Total fisheries production (metric tons),ER.FSH.PROD.MT,1960,245611
+Central Europe and the Baltics,CEB,Urban population,SP.URB.TOTL,1960,40681000
+Central Europe and the Baltics,CEB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,1960,44.50789271
+Early-demographic dividend,EAR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1960,116.56575
+Early-demographic dividend,EAR,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,80.6063167
+Early-demographic dividend,EAR,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1960,5.965877445
+Early-demographic dividend,EAR,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1960,74.32224516
+Early-demographic dividend,EAR,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1960,0.806109187
+Early-demographic dividend,EAR,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1960,250769
+Early-demographic dividend,EAR,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1960,27000000
+Early-demographic dividend,EAR,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1960,2653000000
+Early-demographic dividend,EAR,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,43.53986147
+Early-demographic dividend,EAR,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,1960,20.70236284
+Early-demographic dividend,EAR,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,1960,8268713
+Early-demographic dividend,EAR,"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD,1960,6599997.762
+Early-demographic dividend,EAR,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,1960,8.524998811
+Early-demographic dividend,EAR,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,1960,0.529233205
+Early-demographic dividend,EAR,CO2 emissions (kt),EN.ATM.CO2E.KT,1960,591478.9906
+Early-demographic dividend,EAR,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,0.603547903
+Early-demographic dividend,EAR,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,1960,19.73762671
+Early-demographic dividend,EAR,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1960,4.869906275
+Early-demographic dividend,EAR,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1960,43.32150564
+Early-demographic dividend,EAR,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,250985.5366
+Early-demographic dividend,EAR,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS,1960,20.09540847
+Early-demographic dividend,EAR,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS,1960,2.44484198
+Early-demographic dividend,EAR,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS,1960,24.80620155
+Early-demographic dividend,EAR,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1960,39.59414168
+Early-demographic dividend,EAR,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1960,255750.8504
+Early-demographic dividend,EAR,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS,1960,32.91592129
+Early-demographic dividend,EAR,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1960,1.573502177
+Early-demographic dividend,EAR,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1960,54.99482828
+Early-demographic dividend,EAR,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,20.19370167
+Early-demographic dividend,EAR,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,1960,12.41734319
+Early-demographic dividend,EAR,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,1960,9.911190053
+Early-demographic dividend,EAR,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1960,41000000
+Early-demographic dividend,EAR,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,1960,12.33565394
+Early-demographic dividend,EAR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,1960,11.59326473
+Early-demographic dividend,EAR,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,1960,-1.674045174
+Early-demographic dividend,EAR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,6.144161852
+Early-demographic dividend,EAR,Final consumption expenditure (constant 2010 US$),NE.CON.TOTL.KD,1960,7.83943E+11
+Early-demographic dividend,EAR,Final consumption expenditure (current US$),NE.CON.TOTL.CD,1960,1.26144E+11
+Early-demographic dividend,EAR,Fixed telephone subscriptions,IT.MLT.MAIN,1960,3271621
+Early-demographic dividend,EAR,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1960,0.39929553
+Early-demographic dividend,EAR,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,1960,44.19907189
+Early-demographic dividend,EAR,GDP (constant 2010 US$),NY.GDP.MKTP.KD,1960,1.11762E+12
+Early-demographic dividend,EAR,GDP (current US$),NY.GDP.MKTP.CD,1960,1.5171E+11
+Early-demographic dividend,EAR,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,1960,1140.419568
+Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,1960,154.8052939
+Early-demographic dividend,EAR,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,1960,9.171008375
+Early-demographic dividend,EAR,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,1960,17.75819488
+Early-demographic dividend,EAR,Gross capital formation (constant 2010 US$),NE.GDI.TOTL.KD,1960,2.13975E+11
+Early-demographic dividend,EAR,Gross capital formation (current US$),NE.GDI.TOTL.CD,1960,27087542792
+Early-demographic dividend,EAR,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,1960,16.14594062
+Early-demographic dividend,EAR,Gross domestic savings (current US$),NY.GDS.TOTL.CD,1960,25566007461
+Early-demographic dividend,EAR,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,1960,16.94768669
+Early-demographic dividend,EAR,Gross fixed capital formation (constant 2010 US$),NE.GDI.FTOT.KD,1960,1.67413E+11
+Early-demographic dividend,EAR,Gross national expenditure (constant 2010 US$),NE.DAB.TOTL.KD,1960,9.52618E+11
+Early-demographic dividend,EAR,Gross national expenditure (current US$),NE.DAB.TOTL.CD,1960,1.52982E+11
